@@ -53,6 +53,9 @@ component {
 			buttons = {
 				class = "actions"
 			},
+			checkbox = {
+				class = "inputs-list"
+			},
 			description = {
 				tag = "span",
 				class = "help-block"
@@ -69,6 +72,9 @@ component {
 			},
 			label = {
 				tag = ""
+			},
+			radio = {
+				class = "inputs-list"
 			},
 			submit = {
 				class = "primary"
