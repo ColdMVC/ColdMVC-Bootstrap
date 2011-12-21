@@ -1,8 +1,7 @@
 /**
- * @accessors true
  * @singleton
  */
-component {
+component accessors="true" {
 
 	/**
 	 * @inject coldmvc
